@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./esmaeel.jpeg" alt="Esmaeel Mahfoud" width="160" height="160" style="border-radius: 50%;" />
+<img src="./esmaeel-modified.png" alt="Esmaeel Mahfoud" width="160" height="160" style="border-radius: 50%;" />
 
 # Hi, I'm Esmaeel Mahfoud
 
