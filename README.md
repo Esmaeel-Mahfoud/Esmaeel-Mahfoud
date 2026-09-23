@@ -134,6 +134,6 @@ Homs University · 2020–Present
 
 ## Let's Connect
 
-- LinkedIn: [esmaeel-mahfoud-8439a239](https://linkedin.com/in/esmaeel-mahfoud-8439a239)
+- LinkedIn: [esmaeel-mahfoud-8439a239](https://linkedin.com/in/esmaeel-mahfoud-8439a2397)
 - Email: [esmaeelmahfoud8086@gmail.com](mailto:esmaeelmahfoud8086@gmail.com)
 - GitHub: [Esmaeel-Mahfoud](https://github.com/Esmaeel-Mahfoud)
